@@ -10,7 +10,7 @@ The project helps to develop skills in web scraping, data cleaning and visualisa
 None
 
 ## Usage
-An example image of the password generator is displayed below.
+An example image of the Power BI cricket report is displayed below.
 
 <img width="1068" height="593" alt="Batting" src="https://github.com/user-attachments/assets/7e420d98-cc07-4f5e-a0ea-35ea862ba1fd" />
 
